@@ -178,25 +178,43 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini2luiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini2luiz&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini2luiz&show_icons=true&theme=github_dark&include_all_commits=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini2luiz&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vini2luiz&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
 
+> 💡 Essas imagens vêm de um serviço público compartilhado e podem falhar temporariamente sob alta demanda. Se algum dia aparecerem quebradas, é do lado deles — o resto do perfil (abaixo) é hospedado no próprio GitHub Actions e não depende de terceiros.
+
+---
+
+## 🐍 Minhas contribuições
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini2luiz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true&cache_seconds=86400" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Marcos & Conquistas
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vini2luiz&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&cache_seconds=86400"/>
-</div>
+- 🚀 **4 produtos autorais em produção** — [Pacex](https://pacexai.com), [Santa Rosa Stock](https://santarosastock.online), [Dentzen](https://dentzen.online) e [ZeroToApp](https://zerotoapp.online)
+- 🧑‍🚀 **Fundador** da Pacex, startup própria de treinos com IA generativa, da concepção ao deploy
+- 🤖 Experiência prática integrando **IA Generativa** em produtos reais (Dr.Iagenda — Automação/IA)
+- 🎓 **Engenharia de Software** — Unicesumar (2022–2025)
+- 🌍 Freelancer com entregas para clientes remotos: SaaS, agendas inteligentes, controle de estoque
+
+## 🎯 Em construção agora
+
+- 🏋️ Novos módulos de IA e gamificação na **Pacex**
+- 🧠 Automação de fluxos e integração mais profunda com **LLMs**
+- 📦 Expansão da **Santa Rosa Stock** para novos segmentos além do automotivo
 
 ---
 
