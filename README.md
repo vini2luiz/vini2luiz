@@ -178,8 +178,8 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini2luiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini2luiz&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini2luiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini2luiz&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
 </div>
 
 <div align="center">
@@ -187,7 +187,7 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini2luiz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini2luiz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
@@ -195,7 +195,7 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vini2luiz&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vini2luiz&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&cache_seconds=86400"/>
 </div>
 
 ---
