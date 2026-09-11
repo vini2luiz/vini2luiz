@@ -190,25 +190,17 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 
 ---
 
-## 🐍 Minhas contribuições
+## 🧊 Contribuições em 3D
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="Gráfico 3D de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
   </picture>
 </div>
 
 ---
-
-## 🏆 Marcos & Conquistas
-
-- 🚀 **4 produtos autorais em produção** — [Pacex](https://pacexai.com), [Santa Rosa Stock](https://santarosastock.online), [Dentzen](https://dentzen.online) e [ZeroToApp](https://zerotoapp.online)
-- 🧑‍🚀 **Fundador** da Pacex, startup própria de treinos com IA generativa, da concepção ao deploy
-- 🤖 Experiência prática integrando **IA Generativa** em produtos reais (Dr.Iagenda — Automação/IA)
-- 🎓 **Engenharia de Software** — Unicesumar (2022–2025)
-- 🌍 Freelancer com entregas para clientes remotos: SaaS, agendas inteligentes, controle de estoque
 
 ## 🎯 Em construção agora
 
