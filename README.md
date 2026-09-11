@@ -194,9 +194,9 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/dist/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
