@@ -195,7 +195,7 @@ Landing pages e sistemas de alta performance focados em conversão, design e cop
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-south-season-animate.svg" />
     <img alt="Gráfico 3D de contribuições" src="https://raw.githubusercontent.com/vini2luiz/vini2luiz/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
   </picture>
 </div>
